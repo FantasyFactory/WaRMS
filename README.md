@@ -20,5 +20,5 @@ Il software è scritto in Python e utilizza
 * [numpy](https://numpy.org/) per i calcoli
 * [matplotlib](https://matplotlib.org/) per i grafici
 
-Questo software è libero, ed è sviluppato da [Italian Rocketry Society](htpps://www.rocketry.it) una associazione italiana di missilistica amatoriale
+Questo software è libero, ed è sviluppato da [Italian Rocketry Society](https://www.rocketry.it) una associazione italiana di missilistica amatoriale
 
